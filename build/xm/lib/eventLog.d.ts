@@ -1,0 +1,72 @@
+/// <reference path="../../../src/xm/_ref.d.ts" />
+import StatCounter = require('./StatCounter');
+import Promise = require('bluebird');
+export declare function valueMap(data: any): any;
+export declare var EventLevel: {
+    start: string;
+    complete: string;
+    failure: string;
+    skip: string;
+    share: string;
+    event: string;
+    error: string;
+    warning: string;
+    success: string;
+    status: string;
+    promise: string;
+    resolve: string;
+    reject: string;
+    notify: string;
+    debug: string;
+    log: string;
+};
+export declare var startTime: number;
+export declare class EventLog {
+    private _items;
+    private _label;
+    private _prefix;
+    private _startAt;
+    private _logEnabled;
+    private _trackEnabled;
+    private _trackLimit;
+    private _trackPrune;
+    private _mutePromises;
+    constructor(prefix?: string, label?: string, log?: boolean);
+    promise(promise: Promise<any>, type: string, message?: string, data?: any): EventLogItem;
+    start(type: string, message?: string, data?: any): EventLogItem;
+    complete(type: string, message?: string, data?: any): EventLogItem;
+    failure(type: string, message?: string, data?: any): EventLogItem;
+    event(type: string, message?: string, data?: any): EventLogItem;
+    skip(type: string, message?: string, data?: any): EventLogItem;
+    share(type: string, message?: string, data?: any): EventLogItem;
+    error(type: string, message?: string, data?: any): EventLogItem;
+    warning(type: string, message?: string, data?: any): EventLogItem;
+    success(type: string, message?: string, data?: any): EventLogItem;
+    status(type: string, message?: string, data?: any): EventLogItem;
+    log(type: string, message?: string, data?: any): EventLogItem;
+    debug(type: string, message?: string, data?: any): EventLogItem;
+    track(action: string, type: string, message?: string, data?: any, group?: any): EventLogItem;
+    trim(all?: boolean): void;
+    reset(): void;
+    isMuted(action: string): boolean;
+    muteActions(actions: string[]): void;
+    unmuteActions(actions?: string[]): void;
+    unmuteAll(): void;
+    setTrack(enabled: boolean, limit?: number, prune?: number): void;
+    getItemString(item: EventLogItem, multiline?: boolean): string;
+    getHistory(): string;
+    getStats(): StatCounter;
+    getItems(): EventLogItem[];
+    getReport(label?: string): string;
+}
+export declare class EventLogItem {
+    type: string;
+    action: string;
+    message: string;
+    data: any;
+    index: number;
+    time: number;
+    group: any;
+    constructor();
+    toString(): string;
+}
