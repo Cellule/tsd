@@ -27,4 +27,3 @@ var Options = (function () {
     return Options;
 })();
 module.exports = Options;
-//# sourceMappingURL=Options.js.map

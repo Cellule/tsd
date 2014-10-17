@@ -8,4 +8,3 @@ var InfoMatcher = (function () {
     return InfoMatcher;
 })();
 module.exports = InfoMatcher;
-//# sourceMappingURL=InfoMatcher.js.map

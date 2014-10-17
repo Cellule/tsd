@@ -60,4 +60,3 @@ var DefVersion = (function () {
     return DefVersion;
 })();
 module.exports = DefVersion;
-//# sourceMappingURL=DefVersion.js.map

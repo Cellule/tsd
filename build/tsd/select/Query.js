@@ -35,4 +35,3 @@ var Query = (function () {
     return Query;
 })();
 module.exports = Query;
-//# sourceMappingURL=Query.js.map

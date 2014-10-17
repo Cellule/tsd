@@ -58,4 +58,3 @@ var StatCounter = (function () {
     return StatCounter;
 })();
 module.exports = StatCounter;
-//# sourceMappingURL=StatCounter.js.map

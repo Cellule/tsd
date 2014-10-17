@@ -21,4 +21,3 @@ var GitCommitUser = (function () {
     return GitCommitUser;
 })();
 module.exports = GitCommitUser;
-//# sourceMappingURL=GitCommitUser.js.map

@@ -8,4 +8,3 @@ var DateComp = (function () {
     return DateComp;
 })();
 module.exports = DateComp;
-//# sourceMappingURL=DateComp.js.map

@@ -63,4 +63,3 @@ var BundleChange = (function () {
     return BundleChange;
 })();
 module.exports = BundleChange;
-//# sourceMappingURL=BundleChange.js.map

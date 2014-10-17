@@ -22,4 +22,3 @@ var InstalledDef = (function () {
     return InstalledDef;
 })();
 module.exports = InstalledDef;
-//# sourceMappingURL=InstalledDef.js.map

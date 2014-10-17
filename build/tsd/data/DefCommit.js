@@ -53,4 +53,3 @@ var DefCommit = (function () {
     return DefCommit;
 })();
 module.exports = DefCommit;
-//# sourceMappingURL=DefCommit.js.map

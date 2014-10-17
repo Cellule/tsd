@@ -85,4 +85,3 @@ var ContentLoader = (function (_super) {
     return ContentLoader;
 })(CoreModule);
 module.exports = ContentLoader;
-//# sourceMappingURL=ContentLoader.js.map

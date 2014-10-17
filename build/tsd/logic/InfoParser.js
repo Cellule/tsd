@@ -53,4 +53,3 @@ var InfoParser = (function (_super) {
     return InfoParser;
 })(CoreModule);
 module.exports = InfoParser;
-//# sourceMappingURL=InfoParser.js.map

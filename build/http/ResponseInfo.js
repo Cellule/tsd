@@ -7,4 +7,3 @@ var ResponseInfo = (function () {
     return ResponseInfo;
 })();
 module.exports = ResponseInfo;
-//# sourceMappingURL=ResponseInfo.js.map

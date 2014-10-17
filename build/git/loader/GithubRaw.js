@@ -54,4 +54,3 @@ var GithubRaw = (function (_super) {
     return GithubRaw;
 })(GithubLoader);
 module.exports = GithubRaw;
-//# sourceMappingURL=GithubRaw.js.map

@@ -71,4 +71,3 @@ var GithubRateInfo = (function () {
     return GithubRateInfo;
 })();
 module.exports = GithubRateInfo;
-//# sourceMappingURL=GithubRateInfo.js.map

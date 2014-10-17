@@ -34,4 +34,3 @@ function lockPrimitives(object) {
     });
 }
 exports.lockPrimitives = lockPrimitives;
-//# sourceMappingURL=objectUtils.js.map

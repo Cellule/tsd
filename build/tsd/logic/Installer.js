@@ -93,4 +93,3 @@ var Installer = (function (_super) {
     return Installer;
 })(CoreModule);
 module.exports = Installer;
-//# sourceMappingURL=Installer.js.map

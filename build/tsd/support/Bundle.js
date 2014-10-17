@@ -131,4 +131,3 @@ var BundleLine = (function () {
     return BundleLine;
 })();
 module.exports = Bundle;
-//# sourceMappingURL=Bundle.js.map

@@ -128,4 +128,3 @@ function trimWrap(value, cutoff, double) {
     return wrapQuotes(value, double);
 }
 exports.trimWrap = trimWrap;
-//# sourceMappingURL=encode.js.map

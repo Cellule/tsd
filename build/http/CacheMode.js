@@ -8,4 +8,3 @@ var CacheMode;
     CacheMode[CacheMode["allowUpdate"] = 5] = "allowUpdate";
 })(CacheMode || (CacheMode = {}));
 module.exports = CacheMode;
-//# sourceMappingURL=CacheMode.js.map

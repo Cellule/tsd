@@ -89,4 +89,3 @@ var BundleManager = (function () {
     return BundleManager;
 })();
 module.exports = BundleManager;
-//# sourceMappingURL=BundleManager.js.map

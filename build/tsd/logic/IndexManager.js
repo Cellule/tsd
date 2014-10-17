@@ -70,4 +70,3 @@ var IndexManager = (function (_super) {
     return IndexManager;
 })(CoreModule);
 module.exports = IndexManager;
-//# sourceMappingURL=IndexManager.js.map

@@ -11,4 +11,3 @@ var PackageDefinition = (function () {
     return PackageDefinition;
 })();
 module.exports = PackageDefinition;
-//# sourceMappingURL=PackageDefinition.js.map

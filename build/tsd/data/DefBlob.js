@@ -12,4 +12,3 @@ var DefBlob = (function () {
     return DefBlob;
 })();
 module.exports = DefBlob;
-//# sourceMappingURL=DefBlob.js.map

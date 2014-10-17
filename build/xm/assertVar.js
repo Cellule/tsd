@@ -37,4 +37,3 @@ function assertVar(value, type, label, opt) {
     }
 }
 module.exports = assertVar;
-//# sourceMappingURL=assertVar.js.map

@@ -218,4 +218,3 @@ var Formatter = (function () {
     return Formatter;
 })();
 module.exports = Formatter;
-//# sourceMappingURL=Formatter.js.map

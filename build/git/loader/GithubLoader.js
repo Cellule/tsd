@@ -53,4 +53,3 @@ var GithubLoader = (function () {
     return GithubLoader;
 })();
 module.exports = GithubLoader;
-//# sourceMappingURL=GithubLoader.js.map

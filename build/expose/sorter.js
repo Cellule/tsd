@@ -83,4 +83,3 @@ function sortOption(one, two) {
     return 0;
 }
 exports.sortOption = sortOption;
-//# sourceMappingURL=sorter.js.map

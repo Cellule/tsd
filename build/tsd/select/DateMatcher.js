@@ -80,4 +80,3 @@ var DateMatcher = (function () {
     return DateMatcher;
 })();
 module.exports = DateMatcher;
-//# sourceMappingURL=DateMatcher.js.map

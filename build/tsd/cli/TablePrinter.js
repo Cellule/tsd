@@ -160,4 +160,3 @@ var TablePrinter = (function () {
     return TablePrinter;
 })();
 module.exports = TablePrinter;
-//# sourceMappingURL=TablePrinter.js.map

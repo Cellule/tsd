@@ -20,4 +20,3 @@ function blobShaHex(data) {
     return crypto.createHash('sha1').update('blob ' + data.length + '\0').update(data).digest('hex');
 }
 exports.blobShaHex = blobShaHex;
-//# sourceMappingURL=gitUtil.js.map

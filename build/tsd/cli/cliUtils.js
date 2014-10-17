@@ -18,4 +18,3 @@ function getViewWidth(width, max) {
     return width;
 }
 exports.getViewWidth = getViewWidth;
-//# sourceMappingURL=cliUtils.js.map

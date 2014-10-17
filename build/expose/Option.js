@@ -10,4 +10,3 @@ var Option = (function () {
     return Option;
 })();
 module.exports = Option;
-//# sourceMappingURL=Option.js.map

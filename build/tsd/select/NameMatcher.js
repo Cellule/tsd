@@ -62,4 +62,3 @@ var NameMatcher = (function () {
     return NameMatcher;
 })();
 module.exports = NameMatcher;
-//# sourceMappingURL=NameMatcher.js.map

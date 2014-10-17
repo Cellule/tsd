@@ -231,4 +231,3 @@ var EventLogItem = (function () {
     return EventLogItem;
 })();
 exports.EventLogItem = EventLogItem;
-//# sourceMappingURL=eventLog.js.map

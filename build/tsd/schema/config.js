@@ -17,4 +17,3 @@ var schema = Joi.object({
     allowUnknown: true
 }).description('TSD config & data file');
 module.exports = schema;
-//# sourceMappingURL=config.js.map

@@ -352,4 +352,3 @@ function listTree(basePath, guard) {
     }).then(Promise.all).then(concat);
 }
 exports.listTree = listTree;
-//# sourceMappingURL=fileIO.js.map

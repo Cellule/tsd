@@ -36,4 +36,3 @@ function assert(pass, message, actual, expected, showDiff, ssf) {
     throw new AssertionError(message, { actual: actual, expected: expected, showDiff: showDiff }, ssf);
 }
 module.exports = assert;
-//# sourceMappingURL=assert.js.map

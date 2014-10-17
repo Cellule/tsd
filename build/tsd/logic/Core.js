@@ -54,4 +54,3 @@ var Core = (function () {
     return Core;
 })();
 module.exports = Core;
-//# sourceMappingURL=Core.js.map

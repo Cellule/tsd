@@ -53,4 +53,3 @@ var URLManager = (function () {
     return URLManager;
 })();
 module.exports = URLManager;
-//# sourceMappingURL=URLManager.js.map

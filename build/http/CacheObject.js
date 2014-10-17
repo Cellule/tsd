@@ -6,4 +6,3 @@ var CacheObject = (function () {
     return CacheObject;
 })();
 module.exports = CacheObject;
-//# sourceMappingURL=CacheObject.js.map

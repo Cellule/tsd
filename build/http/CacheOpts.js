@@ -52,4 +52,3 @@ var CacheOpts = (function () {
     return CacheOpts;
 })();
 module.exports = CacheOpts;
-//# sourceMappingURL=CacheOpts.js.map

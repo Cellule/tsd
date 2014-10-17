@@ -8,4 +8,3 @@ var Level = (function () {
     return Level;
 })();
 module.exports = Level;
-//# sourceMappingURL=Level.js.map

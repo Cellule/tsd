@@ -10,4 +10,3 @@ var Command = (function () {
     return Command;
 })();
 module.exports = Command;
-//# sourceMappingURL=Command.js.map

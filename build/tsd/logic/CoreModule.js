@@ -7,4 +7,3 @@ var CoreModule = (function () {
     return CoreModule;
 })();
 module.exports = CoreModule;
-//# sourceMappingURL=CoreModule.js.map

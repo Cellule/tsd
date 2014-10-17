@@ -180,4 +180,3 @@ function addCommon(expose, print, style) {
     });
 }
 module.exports = addCommon;
-//# sourceMappingURL=addCommon.js.map

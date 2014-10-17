@@ -56,4 +56,3 @@ function toValueStrim(obj, depth, cutoff) {
     }
 }
 exports.toValueStrim = toValueStrim;
-//# sourceMappingURL=inspect.js.map

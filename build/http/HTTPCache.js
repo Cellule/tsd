@@ -226,4 +226,3 @@ var HTTPCache = (function () {
     return HTTPCache;
 })();
 module.exports = HTTPCache;
-//# sourceMappingURL=HTTPCache.js.map

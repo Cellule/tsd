@@ -13,4 +13,3 @@ var InstallResult = (function () {
     return InstallResult;
 })();
 module.exports = InstallResult;
-//# sourceMappingURL=InstallResult.js.map

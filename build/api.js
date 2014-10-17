@@ -29,4 +29,3 @@ exports.getAPI = getAPI;
     exports.VersionMatcher,
     exports.defUtil
 ];
-//# sourceMappingURL=api.js.map

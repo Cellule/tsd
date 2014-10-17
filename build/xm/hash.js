@@ -73,4 +73,3 @@ function jsonToIdentHash(obj, length) {
     return hash.digest('hex');
 }
 exports.jsonToIdentHash = jsonToIdentHash;
-//# sourceMappingURL=hash.js.map

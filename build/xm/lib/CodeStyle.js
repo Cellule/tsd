@@ -15,4 +15,3 @@ var CodeStyle = (function () {
     return CodeStyle;
 })();
 module.exports = CodeStyle;
-//# sourceMappingURL=CodeStyle.js.map

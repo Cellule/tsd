@@ -12,4 +12,3 @@ try {
 catch (e) {
 }
 process.setMaxListeners(20);
-//# sourceMappingURL=bootstrap.js.map

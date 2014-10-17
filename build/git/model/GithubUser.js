@@ -18,4 +18,3 @@ var GithubUser = (function () {
     return GithubUser;
 })();
 module.exports = GithubUser;
-//# sourceMappingURL=GithubUser.js.map

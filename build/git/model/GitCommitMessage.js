@@ -26,4 +26,3 @@ var GitCommitMessage = (function () {
     return GitCommitMessage;
 })();
 module.exports = GitCommitMessage;
-//# sourceMappingURL=GitCommitMessage.js.map

@@ -22,4 +22,3 @@ var Paths = (function () {
     return Paths;
 })();
 module.exports = Paths;
-//# sourceMappingURL=Paths.js.map

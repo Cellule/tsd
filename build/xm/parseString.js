@@ -77,4 +77,3 @@ function parseStringTo(input, type) {
     return String(input);
 }
 exports.parseStringTo = parseStringTo;
-//# sourceMappingURL=parseString.js.map

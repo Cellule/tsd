@@ -25,4 +25,3 @@ var DefInfo = (function () {
     return DefInfo;
 })();
 module.exports = DefInfo;
-//# sourceMappingURL=DefInfo.js.map

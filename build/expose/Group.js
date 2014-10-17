@@ -8,4 +8,3 @@ var Group = (function () {
     return Group;
 })();
 module.exports = Group;
-//# sourceMappingURL=Group.js.map

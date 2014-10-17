@@ -91,4 +91,3 @@ var GithubAPI = (function (_super) {
     return GithubAPI;
 })(GithubLoader);
 module.exports = GithubAPI;
-//# sourceMappingURL=GithubAPI.js.map

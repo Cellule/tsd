@@ -23,4 +23,3 @@ exports.objectSchema = Joi.object({
     infoFile: Joi.string().required(),
     bodyChecksum: exports.sha1Schema.required()
 }).description('objectSchema');
-//# sourceMappingURL=types.js.map

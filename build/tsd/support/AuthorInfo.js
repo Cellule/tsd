@@ -30,4 +30,3 @@ var AuthorInfo = (function () {
     return AuthorInfo;
 })();
 module.exports = AuthorInfo;
-//# sourceMappingURL=AuthorInfo.js.map

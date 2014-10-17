@@ -72,4 +72,3 @@ var VersionMatcher = (function () {
     return VersionMatcher;
 })();
 module.exports = VersionMatcher;
-//# sourceMappingURL=VersionMatcher.js.map

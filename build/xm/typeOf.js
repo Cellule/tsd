@@ -200,4 +200,3 @@ function getTypeOfWrap(add) {
     };
 }
 exports.getTypeOfWrap = getTypeOfWrap;
-//# sourceMappingURL=typeOf.js.map

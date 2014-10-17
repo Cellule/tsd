@@ -126,4 +126,3 @@ var JSONStabilizer = (function () {
     return JSONStabilizer;
 })();
 module.exports = JSONStabilizer;
-//# sourceMappingURL=JSONStabilizer.js.map

@@ -15,4 +15,3 @@ var Const = {
 };
 Object.freeze(Const);
 module.exports = Const;
-//# sourceMappingURL=Const.js.map

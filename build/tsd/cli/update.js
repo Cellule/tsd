@@ -55,4 +55,3 @@ function showNotifier(output) {
     });
 }
 exports.showNotifier = showNotifier;
-//# sourceMappingURL=update.js.map

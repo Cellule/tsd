@@ -35,4 +35,3 @@ var ActionMap = (function (_super) {
     return ActionMap;
 })(collection.Hash);
 module.exports = ActionMap;
-//# sourceMappingURL=ActionMap.js.map

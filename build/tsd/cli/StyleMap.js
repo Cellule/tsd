@@ -61,4 +61,3 @@ var StyleMap = (function () {
     return StyleMap;
 })();
 module.exports = StyleMap;
-//# sourceMappingURL=StyleMap.js.map

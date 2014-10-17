@@ -218,4 +218,3 @@ var API = (function () {
     return API;
 })();
 module.exports = API;
-//# sourceMappingURL=API.js.map

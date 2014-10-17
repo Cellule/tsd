@@ -50,4 +50,3 @@ var Request = (function () {
     return Request;
 })();
 module.exports = Request;
-//# sourceMappingURL=CacheRequest.js.map

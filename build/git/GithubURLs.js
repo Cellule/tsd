@@ -103,4 +103,3 @@ var GithubURLs = (function (_super) {
     return GithubURLs;
 })(URLManager);
 module.exports = GithubURLs;
-//# sourceMappingURL=GithubURLs.js.map

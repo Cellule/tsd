@@ -124,4 +124,3 @@ var JSONPointer = (function () {
     return JSONPointer;
 })();
 module.exports = JSONPointer;
-//# sourceMappingURL=JSONPointer.js.map

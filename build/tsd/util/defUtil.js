@@ -259,4 +259,3 @@ function fileCommitCompare(aa, bb) {
     return dateUtils.compare(aaDate, bbDate);
 }
 exports.fileCommitCompare = fileCommitCompare;
-//# sourceMappingURL=defUtil.js.map

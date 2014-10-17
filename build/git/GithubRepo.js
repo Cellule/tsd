@@ -33,4 +33,3 @@ var GithubRepo = (function () {
     return GithubRepo;
 })();
 module.exports = GithubRepo;
-//# sourceMappingURL=GithubRepo.js.map

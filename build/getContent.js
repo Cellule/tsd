@@ -68,4 +68,3 @@ function getContent(options) {
     });
 }
 module.exports = getContent;
-//# sourceMappingURL=getContent.js.map

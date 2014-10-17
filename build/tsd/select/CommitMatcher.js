@@ -31,4 +31,3 @@ var CommitMatcher = (function () {
     return CommitMatcher;
 })();
 module.exports = CommitMatcher;
-//# sourceMappingURL=CommitMatcher.js.map

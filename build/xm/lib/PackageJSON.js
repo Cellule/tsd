@@ -93,4 +93,3 @@ var PackageJSON = (function () {
     return PackageJSON;
 })();
 module.exports = PackageJSON;
-//# sourceMappingURL=PackageJSON.js.map
